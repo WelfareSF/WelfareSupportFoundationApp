@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BA9BA246-4BBF-4C56-9419-0518F4431715"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19AF0F04-64E1-48E0-AC7B-FCCDE2BCF527"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Welfar eSupport Foundation/View Controllers/SignUpViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "signUpTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB81278C-C88B-4667-B2ED-711C7B5F9557"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Welfar eSupport Foundation/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E90DBDCA-9240-4F89-AB48-E4F56A183CA7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Welfar eSupport Foundation/View Controllers/ThroughOrganizationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "ThroughOrganizationViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E90DBDCA-9240-4F89-AB48-E4F56A183CA7 - 1e969eab5339b413"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Welfare_Support_Foundation.ThroughOrganizationViewController.errorLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Welfare Support Foundation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/My%20First%20Offcial%20Project/Welfar%20eSupport%20Foundation/Welfar%20eSupport%20Foundation/View%20Controllers/ThroughOrganizationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "E90DBDCA-9240-4F89-AB48-E4F56A183CA7 - 1e969eab5339b413"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Welfare_Support_Foundation.ThroughOrganizationViewController.errorLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Welfare Support Foundation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/My%20First%20Offcial%20Project/Welfar%20eSupport%20Foundation/Welfar%20eSupport%20Foundation/View%20Controllers/ThroughOrganizationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "E90DBDCA-9240-4F89-AB48-E4F56A183CA7 - fd9ba7d342c2451b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Welfare_Support_Foundation.ThroughOrganizationViewController.errorLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Welfare Support Foundation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/My%20First%20Offcial%20Project/Welfar%20eSupport%20Foundation/Welfar%20eSupport%20Foundation/View%20Controllers/ThroughOrganizationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "E90DBDCA-9240-4F89-AB48-E4F56A183CA7 - 7a1463ca051ea55a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Welfare_Support_Foundation.ThroughOrganizationViewController.errorLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Welfare Support Foundation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/My%20First%20Offcial%20Project/Welfar%20eSupport%20Foundation/Welfar%20eSupport%20Foundation/View%20Controllers/ThroughOrganizationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "E90DBDCA-9240-4F89-AB48-E4F56A183CA7 - 6467f7332f9cb01c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Welfare_Support_Foundation.ThroughOrganizationViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Welfare_Support_Foundation.ThroughOrganizationViewController"
+                  moduleName = "Welfare Support Foundation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/My%20First%20Offcial%20Project/Welfar%20eSupport%20Foundation/Welfar%20eSupport%20Foundation/View%20Controllers/ThroughOrganizationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1193">
+               </Location>
+               <Location
+                  uuid = "E90DBDCA-9240-4F89-AB48-E4F56A183CA7 - 58540b9c074c2d1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Welfare_Support_Foundation.ThroughOrganizationViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Welfare_Support_Foundation.ThroughOrganizationViewController&gt;"
+                  moduleName = "Welfare Support Foundation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/My%20First%20Offcial%20Project/Welfar%20eSupport%20Foundation/Welfar%20eSupport%20Foundation/View%20Controllers/ThroughOrganizationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1134">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
